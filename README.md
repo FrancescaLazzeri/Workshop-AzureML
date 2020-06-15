@@ -1,7 +1,9 @@
 # Microsoft Azure Two-Part Cloud Computing Workshop
 
 ## PART 2
-Azure Machine Learning (1:00-200pm):In the first half of the workshop, you will learn the most important concepts of the machine learning workflow that data scientists follow to build an end-to-end data science solutions on Azure. You will learn how to find, import, and prepare data; select a machine learning algorithm; train and test the model; deploy a complete model to an API. You will get tips, best practices, and resources you and your team need to continue your machine learning journey, build your first model, and more.
+
+### Azure Machine Learning (1:00-2:00 PM EST)
+In the first half of the workshop, you will learn the most important concepts of the machine learning workflow that data scientists follow to build an end-to-end data science solutions on Azure. You will learn how to find, import, and prepare data; select a machine learning algorithm; train and test the model; deploy a complete model to an API. You will get tips, best practices, and resources you and your team need to continue your machine learning journey, build your first model, and more.
 
 We will cover the following basic topics:
 
